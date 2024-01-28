@@ -1,3 +1,3 @@
-![Screenshot 2024-01-28 211216](https://github.com/arghyadeep00/Calculator-Project/assets/86821795/04c67443-c47e-40fd-ac4a-7b6c7925893f)
+![Screenshot 2024-01-28 212527dfs](https://github.com/arghyadeep00/Calculator-Project/assets/86821795/7254a243-9ebb-4f4f-a42f-eb49c802cd37)
 
-![white](https://github.com/arghyadeep00/Calculator-Project/assets/86821795/47e0f2da-c954-4507-a10e-c247044a5482)
+![Screenshot 2024-01-28 212544df](https://github.com/arghyadeep00/Calculator-Project/assets/86821795/d41496cf-bf7e-4c74-8f65-6c0a521da1c2)
