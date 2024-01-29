@@ -13,8 +13,7 @@ for (let i = 0; i < numbers.length; i++) {
         } else if (e.target.innerHTML == '=') {
             str = eval(str);
             output.value = str;
-        } else if (e.target.innerHTML == '<i class="fa-regular fa-moon"></i>') {
-            console.log('moon');
+        } else if (e.target.innerHTML == '<i class="fa-regular fa-moon"></i>') {
             const main = document.querySelector('.claculator');
             const numbers=document.querySelector('.numbers')
             main.classList.toggle('dark-black');
